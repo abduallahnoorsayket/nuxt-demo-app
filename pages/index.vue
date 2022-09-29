@@ -7,6 +7,7 @@
     <hr />
     <NuxtLink to="/about">About page</NuxtLink>
     <hr />
+    <NuxtLink to="/user">User page</NuxtLink>
   </div>
 </template>
 
